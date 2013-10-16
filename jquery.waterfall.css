@@ -1,0 +1,30 @@
+
+.waterfall-mode {
+    margin:auto;
+}
+
+#waterfall-div {
+    border:1px solid;
+    position:relative;
+    overflow-y:auto;
+    margin:auto;
+}
+
+.waterfall-img-div {
+    position:absolute;
+    float:left;
+    margin:5px;
+    border:1px solid black;
+    padding:10px;
+}
+
+.waterfall-img {
+
+}
+
+.waterfall-content {
+    background-color:#edd69c;
+    padding:5px;
+    word-wrap:break-word;
+    word-break:normal;
+}
